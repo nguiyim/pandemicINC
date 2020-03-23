@@ -55,4 +55,4 @@ Allows players to play as the contagious COVID-19 virus. Players will chose a co
 * Play Screen -> User chooses gameplay
 
 ## Wireframes
-<img src="https://imgur.com/a/HQwolJ4" width=800><br>
+<img src="https://imgur.com/a/HQwolJ4.png" width=800><br>
